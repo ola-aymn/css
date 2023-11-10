@@ -1,0 +1,73 @@
+h1{
+    text-align: right;
+    color: black;
+    margin: 10px;
+
+}
+div{
+    width: 30%;
+    height: auto;
+    background-color:rgb(229, 225, 225);
+    display: inline-block;
+   margin-top: 90px;
+   border-radius: 40px;
+   margin: 20px;
+   text-align: center;
+}
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+body{
+    background-color: rgb(242, 239, 239);
+}
+p{
+    text-align: right;
+    font-size: small;
+    font-style: italic;
+}
+h2{
+    text-align: right;
+    color: black;
+}
+button{
+   width: 50%;
+   height: auto;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: white;
+    background-color: orange;
+color: white;
+cursor: pointer;
+
+}
+
+.so{
+    width: 15%;
+    height: auto;
+    background-image: url(.so);
+}
+.mm{
+    width: 15%;
+    height: auto;
+    background-image: url('.mm');
+}
+.oo{
+    width: 15%;
+    height: auto;
+    background-image: url('.oo');
+    
+}
+.ss{
+    width: 15%;
+    height: auto;
+    background-image: url('.ss');
+  
+}
+.aa{
+    width: 15%;
+    height: auto;
+    background-image: url('.aa');
+  
+}
